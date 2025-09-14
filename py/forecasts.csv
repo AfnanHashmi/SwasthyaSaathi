@@ -1,0 +1,73 @@
+City,engine,target,year,forecast
+Arunachal Pradesh,amazon/chronos-t5-small,"Diarrheal Cases per 100,000 people",2025,81.19624328613281
+Arunachal Pradesh,amazon/chronos-t5-small,"Diarrheal Cases per 100,000 people",2026,148.84429931640625
+Arunachal Pradesh,amazon/chronos-t5-small,"Diarrheal Cases per 100,000 people",2027,187.54013061523438
+Assam,amazon/chronos-t5-small,"Diarrheal Cases per 100,000 people",2025,301.16888427734375
+Assam,amazon/chronos-t5-small,"Diarrheal Cases per 100,000 people",2026,277.761962890625
+Assam,amazon/chronos-t5-small,"Diarrheal Cases per 100,000 people",2027,222.13613891601562
+Manipur,amazon/chronos-t5-small,"Diarrheal Cases per 100,000 people",2025,267.1559143066406
+Manipur,amazon/chronos-t5-small,"Diarrheal Cases per 100,000 people",2026,249.9582061767578
+Manipur,amazon/chronos-t5-small,"Diarrheal Cases per 100,000 people",2027,173.06898498535156
+Meghalaya,amazon/chronos-t5-small,"Diarrheal Cases per 100,000 people",2025,226.84439086914062
+Meghalaya,amazon/chronos-t5-small,"Diarrheal Cases per 100,000 people",2026,365.6219787597656
+Meghalaya,amazon/chronos-t5-small,"Diarrheal Cases per 100,000 people",2027,259.3441162109375
+Mizoram,amazon/chronos-t5-small,"Diarrheal Cases per 100,000 people",2025,122.55845642089844
+Mizoram,amazon/chronos-t5-small,"Diarrheal Cases per 100,000 people",2026,184.50424194335938
+Mizoram,amazon/chronos-t5-small,"Diarrheal Cases per 100,000 people",2027,260.3145446777344
+Nagaland,amazon/chronos-t5-small,"Diarrheal Cases per 100,000 people",2025,404.3666076660156
+Nagaland,amazon/chronos-t5-small,"Diarrheal Cases per 100,000 people",2026,392.374267578125
+Nagaland,amazon/chronos-t5-small,"Diarrheal Cases per 100,000 people",2027,189.6288299560547
+Sikkim,amazon/chronos-t5-small,"Diarrheal Cases per 100,000 people",2025,316.9047546386719
+Sikkim,amazon/chronos-t5-small,"Diarrheal Cases per 100,000 people",2026,236.980224609375
+Sikkim,amazon/chronos-t5-small,"Diarrheal Cases per 100,000 people",2027,244.36898803710938
+Tripura,amazon/chronos-t5-small,"Diarrheal Cases per 100,000 people",2025,444.0292053222656
+Tripura,amazon/chronos-t5-small,"Diarrheal Cases per 100,000 people",2026,433.3099670410156
+Tripura,amazon/chronos-t5-small,"Diarrheal Cases per 100,000 people",2027,234.09640502929688
+Arunachal Pradesh,amazon/chronos-t5-small,"Cholera Cases per 100,000 people",2025,24.662944793701172
+Arunachal Pradesh,amazon/chronos-t5-small,"Cholera Cases per 100,000 people",2026,15.836755752563477
+Arunachal Pradesh,amazon/chronos-t5-small,"Cholera Cases per 100,000 people",2027,18.043304443359375
+Assam,amazon/chronos-t5-small,"Cholera Cases per 100,000 people",2025,18.539226531982422
+Assam,amazon/chronos-t5-small,"Cholera Cases per 100,000 people",2026,22.560001373291016
+Assam,amazon/chronos-t5-small,"Cholera Cases per 100,000 people",2027,14.109097480773926
+Manipur,amazon/chronos-t5-small,"Cholera Cases per 100,000 people",2025,26.739879608154297
+Manipur,amazon/chronos-t5-small,"Cholera Cases per 100,000 people",2026,21.16944122314453
+Manipur,amazon/chronos-t5-small,"Cholera Cases per 100,000 people",2027,22.864408493041992
+Meghalaya,amazon/chronos-t5-small,"Cholera Cases per 100,000 people",2025,23.67009735107422
+Meghalaya,amazon/chronos-t5-small,"Cholera Cases per 100,000 people",2026,23.911354064941406
+Meghalaya,amazon/chronos-t5-small,"Cholera Cases per 100,000 people",2027,20.49799919128418
+Mizoram,amazon/chronos-t5-small,"Cholera Cases per 100,000 people",2025,23.19859504699707
+Mizoram,amazon/chronos-t5-small,"Cholera Cases per 100,000 people",2026,26.649776458740234
+Mizoram,amazon/chronos-t5-small,"Cholera Cases per 100,000 people",2027,20.25493812561035
+Nagaland,amazon/chronos-t5-small,"Cholera Cases per 100,000 people",2025,21.855382919311523
+Nagaland,amazon/chronos-t5-small,"Cholera Cases per 100,000 people",2026,30.36376953125
+Nagaland,amazon/chronos-t5-small,"Cholera Cases per 100,000 people",2027,21.96710968017578
+Sikkim,amazon/chronos-t5-small,"Cholera Cases per 100,000 people",2025,21.107919692993164
+Sikkim,amazon/chronos-t5-small,"Cholera Cases per 100,000 people",2026,24.858531951904297
+Sikkim,amazon/chronos-t5-small,"Cholera Cases per 100,000 people",2027,25.406570434570312
+Tripura,amazon/chronos-t5-small,"Cholera Cases per 100,000 people",2025,23.733394622802734
+Tripura,amazon/chronos-t5-small,"Cholera Cases per 100,000 people",2026,20.077865600585938
+Tripura,amazon/chronos-t5-small,"Cholera Cases per 100,000 people",2027,13.033162117004395
+Arunachal Pradesh,amazon/chronos-t5-small,"Typhoid Cases per 100,000 people",2025,64.34114837646484
+Arunachal Pradesh,amazon/chronos-t5-small,"Typhoid Cases per 100,000 people",2026,40.71875762939453
+Arunachal Pradesh,amazon/chronos-t5-small,"Typhoid Cases per 100,000 people",2027,48.23748016357422
+Assam,amazon/chronos-t5-small,"Typhoid Cases per 100,000 people",2025,48.82380294799805
+Assam,amazon/chronos-t5-small,"Typhoid Cases per 100,000 people",2026,40.624656677246094
+Assam,amazon/chronos-t5-small,"Typhoid Cases per 100,000 people",2027,33.5740966796875
+Manipur,amazon/chronos-t5-small,"Typhoid Cases per 100,000 people",2025,47.11823654174805
+Manipur,amazon/chronos-t5-small,"Typhoid Cases per 100,000 people",2026,43.447689056396484
+Manipur,amazon/chronos-t5-small,"Typhoid Cases per 100,000 people",2027,36.35773849487305
+Meghalaya,amazon/chronos-t5-small,"Typhoid Cases per 100,000 people",2025,40.7919807434082
+Meghalaya,amazon/chronos-t5-small,"Typhoid Cases per 100,000 people",2026,34.48001480102539
+Meghalaya,amazon/chronos-t5-small,"Typhoid Cases per 100,000 people",2027,40.75570297241211
+Mizoram,amazon/chronos-t5-small,"Typhoid Cases per 100,000 people",2025,67.49501037597656
+Mizoram,amazon/chronos-t5-small,"Typhoid Cases per 100,000 people",2026,40.80744934082031
+Mizoram,amazon/chronos-t5-small,"Typhoid Cases per 100,000 people",2027,43.10778045654297
+Nagaland,amazon/chronos-t5-small,"Typhoid Cases per 100,000 people",2025,45.489891052246094
+Nagaland,amazon/chronos-t5-small,"Typhoid Cases per 100,000 people",2026,43.90264129638672
+Nagaland,amazon/chronos-t5-small,"Typhoid Cases per 100,000 people",2027,36.523616790771484
+Sikkim,amazon/chronos-t5-small,"Typhoid Cases per 100,000 people",2025,27.577739715576172
+Sikkim,amazon/chronos-t5-small,"Typhoid Cases per 100,000 people",2026,48.73209762573242
+Sikkim,amazon/chronos-t5-small,"Typhoid Cases per 100,000 people",2027,35.16590118408203
+Tripura,amazon/chronos-t5-small,"Typhoid Cases per 100,000 people",2025,58.231201171875
+Tripura,amazon/chronos-t5-small,"Typhoid Cases per 100,000 people",2026,35.29661178588867
+Tripura,amazon/chronos-t5-small,"Typhoid Cases per 100,000 people",2027,28.467370986938477
